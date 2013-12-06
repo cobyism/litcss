@@ -1,0 +1,23 @@
+# Literate programming for CSS
+
+Welcome to literate CSS!
+
+    .litcss {
+      color: red;
+    }
+
+That was one example done using indentation.
+
+Here is a markdown list:
+
+- one
+- two
+- three
+
+```
+.litcss {
+  border: 1px solid red;
+}
+```
+
+That was another example using code block fencing.
